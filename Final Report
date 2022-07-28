@@ -1,0 +1,30 @@
+SOC completed successfully 
+
+ARIMA model is an amazing model that can be used to predict the future depending upon the past performance. 
+It's application is limitless including the stock market and the financial standings of the sales and margins. 
+
+It is a very powerful tool that can be used in any situation. I
+
+ARIMA Model background- https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+I read this apart from the notion page
+
+Notion Page- https://hurricane-farm-a92.notion.site/Stock-Market-Prediction-ARIMA-MODEL-9490ec7017d64f87a0c62f537464fb3b
+
+Major stuff learned-
+
+1) Python was the only language that was required to be used.
+    I saw the video provided by the mentor and solved the google collab provided(could not presevre either)
+2) Numpy was learned in the initial days to get a feel of how python is actually the more useful language
+    Followed mainlyu the video and tried a few commands to see the use
+3) Pandas that was built on numpy was used for the databasing and effective operation on data. This is a powerfull library that is used in many places and applications
+    Having tried video learning and seeing that it is faster to grasp content continued on it
+4) EDA- Exploratory Data Analysis was a bit of a difficult topic to wrap the head around. I read a few more articles for the same to get a better grasp on it.
+    The cruz of it being that we use python pandas functions associated with it and find some relation using the calculated stuff.
+5) YFinance- it is a powerful library that helps us get a structured details about a particular stock so that it can be used in the operations
+    It structures the data beautifully to ensure that it can be used properly.
+6) ARIMA model- we used the research paper to get a good grasp on the arima model and the background was used from the article itself.
+
+I would believe it to be a success as i got to learn the power of so many libraries. 
+Altough, I did not save the file in which I ran the commands which were provided in the various videos.
+
+I have uploaded the final assignment which uses the application of all the above stuff and is impossible to learn without putting in time.
