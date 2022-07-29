@@ -1,11 +1,12 @@
 SOC completed successfully 
 
 ARIMA model is an amazing model that can be used to predict the future depending upon the past performance. 
-It's application is limitless including the stock market and the financial standings of the sales and margins. 
-
-It is a very powerful tool that can be used in any situation. I
+It's application is limitless including the stock market and the financial standings of the sales and margins.
+However, It needs to be accompanied with a seasonal change to make it useful. Mostly it should be used in a way with other information. 
+Sometimes it can be misleading I
 
 ARIMA Model background- https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+Seasonal ARIMA- https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
 I read this apart from the notion page
 
 Notion Page- https://hurricane-farm-a92.notion.site/Stock-Market-Prediction-ARIMA-MODEL-9490ec7017d64f87a0c62f537464fb3b
@@ -23,6 +24,7 @@ Major stuff learned-
 5) YFinance- it is a powerful library that helps us get a structured details about a particular stock so that it can be used in the operations
     It structures the data beautifully to ensure that it can be used properly.
 6) ARIMA model- we used the research paper to get a good grasp on the arima model and the background was used from the article itself.
+7) I tried many ways to grasp my head around the idea and then with the help of the mentor, I discovered Seasonal ARIMA model that produced the desired results
 
 I would believe it to be a success as i got to learn the power of so many libraries. 
 Altough, I did not save the file in which I ran the commands which were provided in the various videos.
